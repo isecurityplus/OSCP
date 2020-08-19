@@ -1,6 +1,7 @@
 # OSCP
 
 **资源**
+
 加QQ：1516517457领取OSCP免费资料包
 
 *提醒：更多优质资源请访问[https://www.isecplus.net](https://www.isecplus.net)*
@@ -12,4 +13,9 @@
 
 - [0x1 Public域10.11.1.5靶机攻略](https://github.com/isecurityplus/OSCP/blob/master/OSCP_Lab_Writeups_Demo_10.11.1.5%20-%20%E5%89%AF%E6%9C%AC.pdf)
 
+- [0x2 Public域10.11.1.10靶机攻略](https://github.com/isecurityplus/OSCP/blob/master/OSCP_Lab_Writeups_Demo_10.11.1.10%20-%20%E5%89%AF%E6%9C%AC.pdf)
+
+- [0x3 Public域10.11.1.13靶机攻略](https://github.com/isecurityplus/OSCP/blob/master/OSCP_Lab_Writeups_Demo_10.11.1.13%20-%20%E5%89%AF%E6%9C%AC.pdf)
+
+- [0x4 Public域10.11.1.14靶机攻略](https://github.com/isecurityplus/OSCP/blob/master/OSCP_Lab_Writeups_Demo_10.11.1.14%20-%20%E5%89%AF%E6%9C%AC.pdf)
 
