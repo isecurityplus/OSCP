@@ -2,7 +2,7 @@
 
 **资源**
 
-加QQ：1516517457领取OSCP免费资料包
+请邮件jewel591@hotmail.com获取免费资料包
 
 *提醒：更多优质资源请访问[https://www.isecplus.net](https://www.isecplus.net)*
 
