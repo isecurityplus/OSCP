@@ -14,4 +14,4 @@
 - [完整140页版本在我的淘宝店铺有卖](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debrzUqH3&ft=t&id=620589344966)
 
 - 知识星球更方便
-![知识星球](/zsxq.jpg)
+![](https://ftp.bmp.ovh/imgs/2020/08/39ee7328c349b474.jpg)
