@@ -24,4 +24,3 @@
 
 更多优质资源欢迎访问[www.isecplus.net](www.isecplus.net)
 
-或加我qq交流qq（qq:1516517457）
